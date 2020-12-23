@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "799165762683",
+    "firebase_url": "https://contact-tracing-4f983.firebaseio.com",
+    "project_id": "contact-tracing-4f983",
+    "storage_bucket": "contact-tracing-4f983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799165762683:android:e0214364ed505f908026de",
+        "android_client_info": {
+          "package_name": "com.example.first_scratch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799165762683-nm5i2i9o1344sjc3stke4pseae2p45is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first_scratch",
+            "certificate_hash": "2b19184138494260917ff478c24840f00597b91a"
+          }
+        },
+        {
+          "client_id": "799165762683-h2ab46d6l7fcdop4s250mse8rangdi1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Btdk6zTMfLnfjnp7nusyWO4Twrqdaxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799165762683-h2ab46d6l7fcdop4s250mse8rangdi1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
